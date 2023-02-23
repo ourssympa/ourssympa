@@ -4,7 +4,7 @@ Je suis un développeur web passionné qui se spécialise principalement dans le
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ourssympa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,java,spring,react,flutter,sql,mongodb,html,bootstrap,ajax,mathlab,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,java,spring,react,vim,flutter,mysql,matlab,mongodb,html,postman,bootstrap,ajax,docker,git,python,linkedin,linux)](https://skillicons.dev)
 
 <!--
 **ourssympa/ourssympa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
